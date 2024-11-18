@@ -29,7 +29,9 @@ Register no  : 212222233002
 ```
 ``` Python
 # Get the input String
-string ="SACHIN"
+# Get the input String
+# Get the input String
+string ="GIFTSON"
 
 # Create tree nodes
 class NodeTree(object):
@@ -79,7 +81,8 @@ for (char, frequency) in freq:
 ```
 ## Output:
 ### Print the characters and its huffmancode
-![Screenshot 2024-11-12 114954](https://github.com/user-attachments/assets/54306bc8-ad02-46c7-a4df-83d23f8c358b)
+
+![Screenshot 2024-11-18 214011](https://github.com/user-attachments/assets/7c8d2e05-b132-47c7-9bf4-3d812339b4eb)
 
 
 ## Result
